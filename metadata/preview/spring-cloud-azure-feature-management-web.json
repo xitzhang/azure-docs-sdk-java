@@ -1,7 +1,7 @@
 {
   "Name": "spring-cloud-azure-feature-management-web",
-  "Version": "6.0.0-beta.1",
-  "DevVersion": null,
+  "Version": "5.23.0-alpha.20250629.1",
+  "DevVersion": "5.23.0-alpha.20250629.1",
   "DirectoryPath": "sdk/spring/spring-cloud-azure-feature-management-web",
   "ServiceDirectory": "spring",
   "ReadMePath": "sdk/spring/spring-cloud-azure-feature-management-web/README.md",
@@ -10,20 +10,20 @@
   "SdkType": "spring",
   "IsNewSdk": true,
   "ArtifactName": "spring-cloud-azure-feature-management-web",
-  "ReleaseStatus": null,
+  "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
     "triggeringPaths": [
       "/sdk/spring/ci.yml"
     ],
+    "name": "spring-cloud-azure-feature-management-web",
     "skipPublishDocMs": false,
     "safeName": "springcloudazurefeaturemanagementweb",
-    "name": "spring-cloud-azure-feature-management-web",
     "skipPublishDocGithubIo": false,
+    "releaseInBatch": "${{ parameters.release_springcloudazurefeaturemanagementweb }}",
     "skipVerifyChangelog": true,
-    "groupId": "com.azure.spring",
-    "releaseInBatch": "${{ parameters.release_springcloudazurefeaturemanagementweb }}"
+    "groupId": "com.azure.spring"
   },
   "CIParameters": {
     "CIMatrixConfigs": []
