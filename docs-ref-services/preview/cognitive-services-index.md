@@ -1,6 +1,7 @@
 | Reference | Package | Source |
 |---|---|---|
 |[AI Agents Persistent](ai-agents-persistent-readme.md)|[azure-ai-agents-persistent](https://repo1.maven.org/maven2/com/azure/azure-ai-agents-persistent)|[GitHub](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/ai/azure-ai-agents-persistent)|
+|[Anomaly Detector](ai-anomalydetector-readme.md)|[azure-ai-anomalydetector](https://repo1.maven.org/maven2/com/azure/azure-ai-anomalydetector)|[GitHub](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/anomalydetector/azure-ai-anomalydetector)|
 |[Content Safety](ai-contentsafety-readme.md)|[azure-ai-contentsafety](https://repo1.maven.org/maven2/com/azure/azure-ai-contentsafety)|[GitHub](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/contentsafety/azure-ai-contentsafety)|
 |[Document Intelligence](ai-documentintelligence-readme.md)|[azure-ai-documentintelligence](https://repo1.maven.org/maven2/com/azure/azure-ai-documentintelligence)|[GitHub](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/documentintelligence/azure-ai-documentintelligence)|
 |[Azure AI Inference](ai-inference-readme.md)|[azure-ai-inference](https://repo1.maven.org/maven2/com/azure/azure-ai-inference)|[GitHub](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/ai/azure-ai-inference)|
